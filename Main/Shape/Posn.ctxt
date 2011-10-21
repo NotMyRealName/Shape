@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=i\ j
+comment0.target=Posn(double,\ double)
+comment1.params=
+comment1.target=double\ getX()
+comment10.params=other
+comment10.target=Posn\ reflect(Line)
+comment11.params=center\ theta
+comment11.target=Posn\ rotate(Posn,\ double)
+comment2.params=
+comment2.target=double\ getY()
+comment3.params=o
+comment3.target=boolean\ equals(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=p
+comment5.target=double\ distance(Posn)
+comment6.params=a
+comment6.target=Posn\ add(Posn)
+comment7.params=a
+comment7.target=Posn\ subtract(Posn)
+comment8.params=a
+comment8.target=Posn\ multiply(Posn)
+comment9.params=amt
+comment9.target=Posn\ multiply(double)
+numComments=12

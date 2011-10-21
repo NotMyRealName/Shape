@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ setUp()
+comment1.params=
+comment1.target=void\ testGetB()
+comment2.params=
+comment2.target=void\ testGetC()
+comment3.params=
+comment3.target=void\ testGetA()
+comment4.params=
+comment4.target=void\ testToString()
+comment5.params=
+comment5.target=void\ testInside()
+comment6.params=
+comment6.target=void\ testTranslate()
+comment7.params=
+comment7.target=void\ testPerimeter()
+comment8.params=
+comment8.target=void\ testGetCenter()
+numComments=9

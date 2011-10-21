@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ setUp()
+comment1.params=
+comment1.target=void\ testPosn()
+comment2.params=
+comment2.target=void\ testGetX()
+comment3.params=
+comment3.target=void\ testGetY()
+comment4.params=
+comment4.target=void\ testEquals()
+comment5.params=
+comment5.target=void\ testToString()
+comment6.params=
+comment6.target=void\ testDistance()
+comment7.params=
+comment7.target=void\ testSubtract()
+comment8.params=
+comment8.target=void\ testReflect()
+comment9.params=
+comment9.target=void\ testRotate()
+numComments=10
